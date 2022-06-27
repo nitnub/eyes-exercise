@@ -8,7 +8,7 @@ To run this project, simply navigate to [https://nitnub.github.io/eyes-exercise]
 
 
 ## Roadmap of Future Improvements
-* Offset adjustment that scales with the distance of the cursor from a given eye for more accurate eye movement.
+* Continue to tune the offset adjustment so that it better scales with the distance of the cursor from a given eye for more accurate eye movement.
 * Random blinking / click to blink.
 
 
